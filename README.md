@@ -5,6 +5,10 @@ The aim of the analysis is to determine the number of retiring employees per tit
 
 ## Results
 ###D1
+
+![imi_1](pitu_1.png)
+![imi_2](pitu_2.png)
+![imi_3](pitu_3.png)
 * The first table(retirement_titles) includes all employees who are in retirement age even those who have already left the company.
 * The second table represents employees with the most recent job title and in retirement age.
 * The third table shows the number of employees by title, which can help determine the number of mentors in the mentorship program.
