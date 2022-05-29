@@ -23,4 +23,4 @@ There are enough qualified employees in the departments to mentor the next gener
 ![im_1](np_1.png)
 ![im_3](np_3.png)
 
-The left picture represents the number of employees that would have been in the mentorship program if they didnt leave the company.
+The left picture represents the number of employees that would have been in the mentorship program if they didnt leave the company. The righ picture includes the available employees to the mentorship program.
