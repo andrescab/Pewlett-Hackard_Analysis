@@ -17,6 +17,7 @@ The aim of the analysis is to determine the number of retiring employees per tit
 ## Summary
 There are 2 roles( Sernior Engineer and Senior Staff) that needs to be filled according to the silver tsunami.
 There are enough qualified employees in the departments to mentor the next generation of Pewlett Hackard generation.
+
 ![im_1](np_1.png)
 ![im_2](np_2.png)
 ![im_3](np_3.png)
